@@ -1,0 +1,555 @@
+class id,filepaths,labels,data set,scientific name
+0,train/BALD EAGLE/001.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/002.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/003.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/004.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/005.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/006.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/007.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/008.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/009.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/010.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/011.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/012.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/013.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/014.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/015.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/016.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/017.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/018.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/019.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/020.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/021.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/022.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/023.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/024.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/025.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/026.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/027.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/028.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/029.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/030.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/031.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/032.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/033.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/034.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/035.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/036.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/037.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/038.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/039.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/040.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/041.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/042.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/043.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/044.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/045.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/046.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/047.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/048.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/049.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/050.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/051.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/053.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/054.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/055.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/056.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/057.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/058.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/059.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/060.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/061.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/062.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/063.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/064.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/065.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/066.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/067.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/068.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/069.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/070.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/071.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/072.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/073.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/074.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/075.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/076.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/077.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/078.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/079.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/080.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/081.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/082.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/083.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/084.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/085.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/086.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/087.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/088.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/089.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/090.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/091.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/092.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/093.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/094.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/095.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/096.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/097.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/098.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/099.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/100.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/101.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/102.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/103.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/104.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/105.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/106.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/107.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/108.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/109.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/110.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/111.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/112.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/113.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/114.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/115.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/116.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/117.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/118.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/119.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/120.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/121.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/122.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/123.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/124.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/125.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/126.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/127.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/128.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/129.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/130.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/131.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/132.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/133.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/134.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/135.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/136.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/137.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/138.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/139.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/140.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/141.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/142.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/143.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/144.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/146.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/147.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/148.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/149.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/150.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/151.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/152.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/153.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/154.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/155.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/156.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/157.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/158.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/159.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/160.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/161.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+0,train/BALD EAGLE/162.jpg,BALD EAGLE,train,Haliaeetus leucocephalus
+1,train/GOLDEN EAGLE/001.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/002.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/003.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/004.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/005.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/006.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/007.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/008.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/009.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/010.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/011.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/012.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/013.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/014.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/015.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/016.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/017.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/018.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/019.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/020.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/021.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/022.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/023.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/024.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/025.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/026.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/027.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/028.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/029.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/030.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/031.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/032.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/033.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/034.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/035.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/036.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/037.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/038.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/039.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/040.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/041.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/042.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/043.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/044.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/045.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/046.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/047.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/048.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/049.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/050.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/051.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/052.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/053.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/054.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/055.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/056.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/057.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/058.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/059.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/060.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/061.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/062.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/063.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/064.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/065.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/066.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/067.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/068.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/069.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/070.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/071.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/072.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/073.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/074.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/075.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/076.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/077.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/078.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/079.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/080.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/081.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/082.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/083.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/084.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/085.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/086.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/087.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/088.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/089.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/090.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/091.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/092.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/093.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/094.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/095.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/096.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/097.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/098.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/099.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/100.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/101.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/102.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/103.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/104.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/105.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/106.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/107.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/108.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/109.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/110.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/111.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/112.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/113.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/114.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/115.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/116.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/117.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/118.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/119.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/120.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/121.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/122.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/123.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/124.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/125.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/126.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/127.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/128.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/129.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/130.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/131.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/132.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/133.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/134.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/135.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/136.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/137.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/138.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/139.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/140.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/141.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/142.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/143.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/144.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/145.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/146.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/147.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/148.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/149.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/150.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/151.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/152.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/153.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/154.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/155.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/156.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/157.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/158.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/159.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/160.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/161.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+1,train/GOLDEN EAGLE/162.jpg,GOLDEN EAGLE,train,Aquila chrysaetos
+2,train/RED TAILED HAWK/001.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/002.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/003.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/004.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/005.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/006.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/007.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/008.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/009.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/010.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/011.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/012.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/013.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/014.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/015.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/016.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/017.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/018.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/019.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/020.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/021.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/022.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/023.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/024.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/025.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/026.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/027.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/028.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/029.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/030.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/031.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/032.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/033.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/034.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/035.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/036.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/037.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/038.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/039.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/040.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/041.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/042.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/043.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/044.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/045.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/046.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/047.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/048.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/049.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/050.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/051.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/052.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/053.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/054.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/055.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/056.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/057.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/058.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/059.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/060.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/061.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/062.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/063.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/064.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/065.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/066.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/067.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/068.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/069.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/070.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/071.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/072.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/073.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/074.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/075.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/076.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/077.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/078.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/079.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/080.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/081.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/082.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/083.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/084.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/085.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/086.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/087.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/088.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/089.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/090.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/091.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/092.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/093.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/094.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/095.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/096.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/097.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/098.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/099.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/100.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/101.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/102.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/103.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/104.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/105.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/106.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/107.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/108.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/109.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/110.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/111.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/112.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/113.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/114.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/115.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/116.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/117.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/118.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/119.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/120.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/121.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/122.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/123.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/124.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/125.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/126.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/127.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/128.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/129.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/130.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/131.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/132.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/133.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/134.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/135.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/136.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/137.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/138.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/139.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/140.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/141.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/142.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/143.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/144.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/145.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/146.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/147.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/148.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/149.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/150.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/151.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/152.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/153.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/154.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/155.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/156.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/157.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/158.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/159.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/160.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/161.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/162.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/163.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/164.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/165.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/166.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/167.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/168.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/169.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/170.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/171.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/172.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/173.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/174.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/175.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/176.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/177.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/178.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/179.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/180.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/181.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/182.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/183.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/184.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/185.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/186.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/187.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/188.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/189.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/190.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/191.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/192.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/193.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/194.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/195.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/196.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/197.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/198.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/199.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/200.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/201.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+2,train/RED TAILED HAWK/202.jpg,RED TAILED HAWK,train,Buteo jamaicensis
+0,test/BALD EAGLE/1.jpg,BALD EAGLE,test,Haliaeetus leucocephalus
+0,test/BALD EAGLE/2.jpg,BALD EAGLE,test,Haliaeetus leucocephalus
+0,test/BALD EAGLE/3.jpg,BALD EAGLE,test,Haliaeetus leucocephalus
+0,test/BALD EAGLE/4.jpg,BALD EAGLE,test,Haliaeetus leucocephalus
+0,test/BALD EAGLE/5.jpg,BALD EAGLE,test,Haliaeetus leucocephalus
+1,test/GOLDEN EAGLE/1.jpg,GOLDEN EAGLE,test,Aquila chrysaetos
+1,test/GOLDEN EAGLE/2.jpg,GOLDEN EAGLE,test,Aquila chrysaetos
+1,test/GOLDEN EAGLE/3.jpg,GOLDEN EAGLE,test,Aquila chrysaetos
+1,test/GOLDEN EAGLE/4.jpg,GOLDEN EAGLE,test,Aquila chrysaetos
+1,test/GOLDEN EAGLE/5.jpg,GOLDEN EAGLE,test,Aquila chrysaetos
+2,test/RED TAILED HAWK/1.jpg,RED TAILED HAWK,test,Buteo jamaicensis
+2,test/RED TAILED HAWK/2.jpg,RED TAILED HAWK,test,Buteo jamaicensis
+2,test/RED TAILED HAWK/3.jpg,RED TAILED HAWK,test,Buteo jamaicensis
+2,test/RED TAILED HAWK/4.jpg,RED TAILED HAWK,test,Buteo jamaicensis
+2,test/RED TAILED HAWK/5.jpg,RED TAILED HAWK,test,Buteo jamaicensis
+0,valid/BALD EAGLE/1.jpg,BALD EAGLE,valid,Haliaeetus leucocephalus
+0,valid/BALD EAGLE/2.jpg,BALD EAGLE,valid,Haliaeetus leucocephalus
+0,valid/BALD EAGLE/3.jpg,BALD EAGLE,valid,Haliaeetus leucocephalus
+0,valid/BALD EAGLE/4.jpg,BALD EAGLE,valid,Haliaeetus leucocephalus
+0,valid/BALD EAGLE/5.jpg,BALD EAGLE,valid,Haliaeetus leucocephalus
+1,valid/GOLDEN EAGLE/1.jpg,GOLDEN EAGLE,valid,Aquila chrysaetos
+1,valid/GOLDEN EAGLE/2.jpg,GOLDEN EAGLE,valid,Aquila chrysaetos
+1,valid/GOLDEN EAGLE/3.jpg,GOLDEN EAGLE,valid,Aquila chrysaetos
+1,valid/GOLDEN EAGLE/4.jpg,GOLDEN EAGLE,valid,Aquila chrysaetos
+1,valid/GOLDEN EAGLE/5.jpg,GOLDEN EAGLE,valid,Aquila chrysaetos
+2,valid/RED TAILED HAWK/1.jpg,RED TAILED HAWK,valid,Buteo jamaicensis
+2,valid/RED TAILED HAWK/2.jpg,RED TAILED HAWK,valid,Buteo jamaicensis
+2,valid/RED TAILED HAWK/3.jpg,RED TAILED HAWK,valid,Buteo jamaicensis
+2,valid/RED TAILED HAWK/4.jpg,RED TAILED HAWK,valid,Buteo jamaicensis
+2,valid/RED TAILED HAWK/5.jpg,RED TAILED HAWK,valid,Buteo jamaicensis
